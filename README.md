@@ -31,7 +31,6 @@ Hello! I'm Breno F. Cardoso, a professional transitioning into technology with a
 
 ### In Progress
 
-- Artificial Intelligence: Machine Learning, Generative AI, and Natural Language Processing — FIAP
 - Microsoft Azure AI Fundamentals (AI-901) — Microsoft Learn
 
 ## Goals
